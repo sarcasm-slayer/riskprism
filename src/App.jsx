@@ -161,7 +161,7 @@ function App() {
       <nav className="max-w-7xl mx-auto flex justify-between items-center mb-16">
         <div className="flex items-center gap-3 group cursor-pointer">
           <div className="bg-gradient-to-tr from-blue-600 to-cyan-500 p-2.5 rounded-xl shadow-lg shadow-blue-500/20 transition-all"><Shield className="w-6 h-6 text-white" /></div>
-          <div className="flex flex-col"><h1 className="text-2xl font-bold tracking-tight text-white leading-none">Vigilance<span className="text-blue-500">.ai</span></h1><span className="text-[10px] font-medium text-slate-500 uppercase tracking-[0.2em] mt-1">Cyber Risk Intelligence</span></div>
+          <div className="flex flex-col"><h1 className="text-2xl font-bold tracking-tight text-white leading-none">Risk<span className="text-blue-500">Prism</span></h1><span className="text-[10px] font-medium text-slate-500 uppercase tracking-[0.2em] mt-1">Cyber Risk Intelligence</span></div>
         </div>
         <div className="hidden md:flex items-center gap-2 px-3 py-1.5 rounded-full bg-slate-900 border border-slate-800 text-xs font-medium text-slate-400"><Activity className="w-3 h-3 text-emerald-500 animate-pulse" />System Operational</div>
       </nav>
