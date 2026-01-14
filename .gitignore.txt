@@ -1,0 +1,11 @@
+# React Dependencies (Huge folders we don't need to save)
+node_modules/
+dist/
+build/
+.env
+
+# Python junk
+__pycache__/
+*.py[cod]
+venv/
+.DS_Store
