@@ -100,7 +100,7 @@ function App() {
     setReport(null);
     setShowAllAssets(false);
     try {
-      const response = await fetch('https://riskprism-fycs.onrender.com/scan', {
+      const response = await fetch('https://riskprism-api.onrender.com/scan', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ domain: domain })
